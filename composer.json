@@ -10,6 +10,7 @@
             "email": "stof@notk.org"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.3",
         "symfony/yaml": "~2.3|~3.0"
